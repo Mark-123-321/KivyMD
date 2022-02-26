@@ -1,10 +1,10 @@
-Welcome to KivyMD's documentation!
+Καλώς ορίσατε στα εγχειρίδια του KivyMD!
 ==================================
 
 .. autoapimodule:: kivymd
    :noindex:
 
-Contents
+Περιεχόμενα
 --------
 
 .. toctree::
